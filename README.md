@@ -1,1 +1,2 @@
-# Monty-Hall-
+# Monty-Hall-Problem
+This code in matlab simulates the Monty_Hall problem for 10,000 runs (number of times the game is played) and gives you the win probability if given the option, you switch your initial choice of door every single time. I have attributed the switching as 1 or 0 to the variable strategy. Strategy = 1 means you switch every single time. This case highlights strategy = 1, which means the player switches his initial choice every single time. To compute the probability of winning provided the player does not switch, change the variable strategy = 0.
